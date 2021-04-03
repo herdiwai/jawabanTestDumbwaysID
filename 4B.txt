@@ -1,0 +1,6 @@
+Aplikasi Wiki Games bisa diakases di :
+
+Menggunakan framework laravel versi 8 dan crud sederhana & relasi tabel,
+Berikut Link githubnya :
+
+https://github.com/herdiwai/wikigames
